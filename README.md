@@ -7,3 +7,4 @@ Project 05 version1 completed
 Project 05 version2 completed
 3rd Team Member: <이상윤>
  “3rd Team Member: 20221058"
+“Project 05 version3 completed”
